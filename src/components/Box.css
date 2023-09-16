@@ -1,0 +1,9 @@
+.card--badge{
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: yellow;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
+}
